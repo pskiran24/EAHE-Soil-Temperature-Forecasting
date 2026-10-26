@@ -1,0 +1,26 @@
+# Data processing
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Time-series forecasting
+statsmodels
+
+# Dynamical systems
+# Add the specific DMD/DMDc implementation used in the notebook
+# after verifying its imports.
+
+# Physics-Informed Neural Networks
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook environment
+jupyter
+ipykernel
